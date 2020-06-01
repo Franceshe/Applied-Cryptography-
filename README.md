@@ -1,5 +1,4 @@
-This repository is for [ECE/CS 498AM Applied Cryptography](http://soc1024.ece.illinois.edu/teaching/ece498am/fall2019/
-) at University of Illinois at Urbana-Champaign
+This repository is for [ECE/CS 498AM Applied Cryptography](http://soc1024.ece.illinois.edu/teaching/ece498ac/fall2019/) at University of Illinois at Urbana-Champaign
 
 These files are in python. They should work under EWS linux instances (linux.ews.illinois.edu)
 
